@@ -1,0 +1,2 @@
+# demo
+PRINT("HELLO WORLD")
